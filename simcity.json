@@ -1,0 +1,85 @@
+{
+  "title": "SimCity 2000",
+  "date": "December 1993",
+  "sections":[
+    {
+      "title": "Generating City",
+      "background": "hotpink",
+      "items": [
+        {
+          "type": "item",
+          "description": "Hidden agendas",
+          "condition": "Add",
+          "deferrable": true
+        },
+        {
+          "type": "item",
+          "description": "Bell curves",
+          "condition": "Adjust",
+          "deferrable": true
+        },
+        {
+          "type": "item",
+          "description": "Splines",
+          "condition": "Reticulate",
+          "deferrable": true
+        },
+        {
+          "type": "item",
+          "description": "Rhinoceros breeding timetable",
+          "condition": "Initialize",
+          "deferrable": true
+        },
+        {
+          "type": "item",
+          "description": "Llama Expectoration Trajectory",
+          "condition": "Calculate",
+          "deferrable": true
+        },
+        {
+          "type": "item",
+          "description": "Livestock Nutrition Variables",
+          "condition": "Dilute",
+          "deferrable": true
+        },
+        {
+          "type": "item",
+          "description": "Election Outcome Matrix",
+          "condition": "Fix",
+          "deferrable": true
+        }
+      ]
+    },
+    {
+      "title": "After Start",
+      "background": "yellow",
+      "items": [
+        {
+          "description": "Roads",
+          "condition": "Build",
+          "deferrable": true
+        },
+        {
+          "description": "Water pipes",
+          "condition": "Build",
+          "deferrable": true
+        },
+        {
+          "description": "Power plant",
+          "condition": "Build",
+          "deferrable": true
+        },
+        {
+          "description": "Electric grid",
+          "condition": "Build",
+          "deferrable": true
+        },
+        {
+          "description": "Residential areas",
+          "condition": "Assign",
+          "deferrable": true
+        }
+      ]
+    }
+  ]
+}
